@@ -1,4 +1,4 @@
-package com.travis.jdbc;
+package com.travis.hibernate.demo.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

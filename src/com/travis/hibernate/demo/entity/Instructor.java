@@ -1,4 +1,4 @@
-package com.travis.entity;
+package com.travis.hibernate.demo.entity;
 
 import javax.persistence.*;
 
